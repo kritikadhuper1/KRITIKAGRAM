@@ -1,0 +1,2 @@
+# KRITIKAGRAM
+First swiftUI App 
